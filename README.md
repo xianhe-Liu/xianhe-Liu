@@ -5,9 +5,6 @@
   <img alt="制造" src="./logo_3.png" align="left" width="50" high="50"/>
   <img alt="媒体" src="./logo_4.png" align="left" width="50" high="50"/>
   <img alt="战车" src="./logo_5.png" align="left" width="50" high="50"/>
-<p>
-
-<p>
   <img alt="设计" src="./Steve_Jobs.jpg" align="left" width="50" high="50"/>
   <img alt="技术" src="./linus.png" align="left" width="50" high="50"/>
   <img alt="艺术" src="./van_Gogh.jpg" align="left" width="50" high="50"/>
