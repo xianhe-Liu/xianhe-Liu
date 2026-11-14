@@ -1,12 +1,3 @@
-
-
-<p>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkCodeStudio&layout=compact&theme=midnight-purple" align="right"/>
- <img  src="https://github-readme-stats.vercel.app/api?username=ThinkCodeStudio&theme=midnight-purple" width="415"/>
-</p>
-
-![](https://activity-graph.herokuapp.com/graph?username=ThinkCodeStudio&theme=react-dark)
-
 <p>
   <img alt="一代" src="./logo_0.png" align="left" width="50" high="50"/>
   <img alt="二代" src="./logo_6.png" align="left" width="50" high="50"/>
